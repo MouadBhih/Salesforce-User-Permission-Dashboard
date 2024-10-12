@@ -1,0 +1,47 @@
+
+
+.lightning-card {
+    background-color: #f9f9f9; /* Light background color */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+}
+
+.custom-datatable {
+    border-collapse: collapse; /* Remove spacing between table cells */
+    width: 100%; /* Full width */
+}
+
+/* Table Header Styles */
+.custom-datatable thead {
+    background-color: #0070d2; /* Salesforce Blue */
+    color: white; /* Text color for header */
+}
+
+.custom-datatable th {
+    padding: 12px; /* Spacing for header cells */
+    text-align: left; /* Align text to the left */
+}
+
+/* Table Body Styles */
+.custom-datatable tbody tr {
+    border-bottom: 1px solid #e0e0e0; /* Bottom border for rows */
+}
+
+.custom-datatable tbody tr:nth-child(even) {
+    background-color: #f1f1f1; /* Zebra striping for even rows */
+}
+
+.custom-datatable td {
+    padding: 10px; /* Spacing for body cells */
+}
+
+/* Error Message Styles */
+.error-message {
+    color: #d50000; /* Red color for error messages */
+    font-weight: bold; /* Bold text for emphasis */
+}
+
+/* Spinner Styles */
+.spinner {
+    margin: 20px auto; /* Center the spinner */
+}
