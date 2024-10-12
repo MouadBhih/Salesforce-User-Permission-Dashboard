@@ -19,7 +19,8 @@ A Lightning Web Component (LWC) project for Salesforce that provides a dynamic a
 - **Error Handling**: Proper error handling with user-friendly messages.
 
 ## Screenshots
-![User Permission Dashboard Screenshot](screenshot.png)
+![User Permission Dashboard Screenshot](https://github.com/user-attachments/assets/e1a40d52-e2ce-4f3e-98f2-3cc40b9ae59b)
+
 
 ## Installation
 1. Clone this repository to your local machine:
